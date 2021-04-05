@@ -1,12 +1,12 @@
-PhD Candidate and Researcher
-============================
+PhD Candidate, Researcher, and Cypherpunk
+=========================================
 
 PhD computer science candidate, England.
 
 Primary research:
 
  - Deep Learning for agricultural yield prediction.
- - Fully Homomorphic Encryption (FHE), and encrypted deep learning.
+ - Fully Homomorphic Encryption (FHE), and encrypted deep learning as a service (EDLaaS).
 
 Papers
 ------
