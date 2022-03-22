@@ -1,7 +1,7 @@
 PhD Candidate, Researcher, and Cypherpunk
 =========================================
 
-PhD computer science candidate, England.
+PhD computer science candidate and `director for Deep Cypher Ltd. <https://deepcypher.me>`_.
 
 Primary research:
 
